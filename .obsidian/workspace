@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "a618f841abf24a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e51f9253349157c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Professional/Industrial Control Systems/ICS and Industry 4.0.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e709d7dd918442",
+    "type": "split",
+    "children": [
+      {
+        "id": "590b95bcfdeeb59c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f205f99c1df7355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "afa7017eec2efcae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c54e5375678db763",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "c19262d2c1a85f8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279
+  },
+  "right": {
+    "id": "5d487d6f2e829fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "11125fa56323be55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8712e51d6022229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Professional/Industrial Control Systems/ICS and Industry 4.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fae03a48f80f54db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Professional/Industrial Control Systems/ICS and Industry 4.0.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "005565e48e676f54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "551c0cc5e93aa862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Professional/Industrial Control Systems/ICS and Industry 4.0.md"
+              }
+            }
+          },
+          {
+            "id": "09beca4d27cbda63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 206,
+    "collapsed": true
+  },
+  "active": "0e51f9253349157c",
+  "lastOpenFiles": [
+    "Professional/Industrial Control Systems/ICS Project Management.md",
+    "Professional/Industrial Control Systems/ICS Maintenance and Troubleshooting.md",
+    "Professional/Industrial Control Systems/ICS Standards and Regulations.md",
+    "Professional/Industrial Control Systems/ICS Safety and Reliability.md",
+    "Professional/Industrial Control Systems/ICS SCADA Systems.md",
+    "Professional/Industrial Control Systems/ICS Programmable Logic Conntrollers (PLCs).md",
+    "Professional/Industrial Control Systems/ICS Cybersecurity.md",
+    "Professional/Industrial Control Systems/ICS Networking.md",
+    "Professional/Industrial Control Systems/ICS Communication Protocols.md",
+    "Professional/Industrial Control Systems/ICS Hardware and Software.md"
+  ]
+}

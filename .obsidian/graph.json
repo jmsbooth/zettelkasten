@@ -1,0 +1,44 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#personal",
+      "color": {
+        "a": 1,
+        "rgb": 8431532
+      }
+    },
+    {
+      "query": "tag:#professional",
+      "color": {
+        "a": 1,
+        "rgb": 12100474
+      }
+    },
+    {
+      "query": "tag:#scholarly",
+      "color": {
+        "a": 1,
+        "rgb": 7832668
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 0.916666666666667,
+  "lineSizeMultiplier": 1.06979166666667,
+  "collapse-forces": false,
+  "centerStrength": 0.21875,
+  "repelStrength": 5.41666666666667,
+  "linkStrength": 0.395833333333333,
+  "linkDistance": 52,
+  "scale": 0.10727881402822356,
+  "close": false
+}

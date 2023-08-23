@@ -1,0 +1,436 @@
+{
+  "main": {
+    "id": "a618f841abf24a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ae93ad08661ac27",
+        "type": "tabs",
+        "dimension": 74.84276729559748,
+        "children": [
+          {
+            "id": "b289454f3ce939e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Lean Enterprise - James P. Womack, Daniel T. Jones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af64ec058ed4079b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Accelerate - Building and Scaling High Performing Technology Organizations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4944cab8665b4552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Blink - Malcolm Gladwell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05a49d97e85a1bf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/The Tipping Point - Malcolm Gladwell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "889f5f92a3516115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Talking to Strangers - Malcolm Gladwell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c22e6f9626bb20cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Start with Why - Simon Sinek.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff6ee3ad2aecd9c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Think Like a Monk - Jay Shetty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ea0476b94bbf746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Leadership Strategy and Tactics - Jocko Willink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d46ea5bae3683f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Thinking, Fast and Slow - Daniel Kahneman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "998bd64af7a13979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Deep Work - Cal Newport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dcade903941080c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/How to Win Friends and Influence People (Updated) - Dale Carnegie.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d10525f21f1eef35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Lean Startup - Eric Ries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b9f6381a29b78e71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Think Again - Adam Grant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4adb1b6e88ab3eb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/7 Habits of Highly Effective People - Sean Covey.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaf81620ee7d1e57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/21 Irrefutable Laws of Leadership - John Maxwell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fc85ee2544d86de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/The Kill Chain - Christian Brose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "245f7995039fbcbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Call Sign Chaos - Jim Mattis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6239a24408cbe7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Books/Think Like a Monk - Jay Shetty.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "449993c98a09c197",
+        "type": "split",
+        "dimension": 25.157232704402517,
+        "children": [
+          {
+            "id": "61472880dfeae92f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c3dfbc5b49ef42e9",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Day Planners/Day Planner-20230125.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "6a45b3d6ea74cb32",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7295d0444d6c132b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2e709d7dd918442",
+    "type": "split",
+    "children": [
+      {
+        "id": "590b95bcfdeeb59c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f205f99c1df7355",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afa7017eec2efcae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#MalcolmGladwell",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c54e5375678db763",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6c9799c56878cff5",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "5d487d6f2e829fcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "11125fa56323be55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8712e51d6022229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/Books/Lean Enterprise - James P. Womack, Daniel T. Jones.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fae03a48f80f54db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/Books/Lean Enterprise - James P. Womack, Daniel T. Jones.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "005565e48e676f54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "551c0cc5e93aa862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/Books/Lean Enterprise - James P. Womack, Daniel T. Jones.md"
+              }
+            }
+          },
+          {
+            "id": "09beca4d27cbda63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c517b28db2e4e04",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "b289454f3ce939e3",
+  "lastOpenFiles": [
+    "Personal/Books/Thinking, Fast and Slow - Daniel Kahneman.md",
+    "Personal/Books/Lean Startup - Eric Ries.md",
+    "Personal/Books/Start with Why - Simon Sinek.md",
+    "Personal/Books/Talking to Strangers - Malcolm Gladwell.md",
+    "Personal/Books/The Kill Chain - Christian Brose.md",
+    "Personal/Books/Think Like a Monk - Jay Shetty.md",
+    "Personal/Books/Think Again - Adam Grant.md",
+    "Personal/Books/The Tipping Point - Malcolm Gladwell.md",
+    "Personal/Books/Lean Enterprise - James P. Womack, Daniel T. Jones.md",
+    "Personal/Books/Leadership Strategy and Tactics - Jocko Willink.md"
+  ]
+}

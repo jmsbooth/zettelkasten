@@ -23,9 +23,11 @@
             "id": "734aa3c63a280053",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional/Cloud/Azure/AZ-104 Azure Admin/John Savill - AZ-104 Study Cram.md",
+                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professional/Cloud/Azure/AZ-104 Azure Admin/John Savill - AZ-104 Study Cram.md",
+                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/Cloud/Azure/AZ-104 Azure Admin/John Savill - AZ-104 Study Cram.md"
+                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md"
               }
             }
           },
@@ -186,8 +188,17 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0f205f99c1df7355",
+  "active": "734aa3c63a280053",
   "lastOpenFiles": [
+    "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+    "Professional/Business/Strategic Planning/OKRs",
+    "Professional/Business/Untitled",
+    "Professional/Architecture/Solution",
+    "Professional/Architecture/Enterprise",
+    "Professional/Architecture",
+    "Professional/Cybersecurity/Untitled",
+    "Professional/Cloud/Azure/SC-100 Cybersecurity Architect Expert",
+    "Professional/Cloud/Azure/AZ-500 Azure Security",
     "Professional/Cloud/Azure/AZ-305 Azure Architect/John Savill - AZ-305 Study Cram.md",
     "Professional/Cloud/Azure/AZ-305 Azure Architect/!! AZ-305 Azure Solution Architect Exam Cram Notes !!.md",
     "Professional/Cloud/Azure/AZ-104 Azure Admin/John Savill - AZ-104 Study Cram.md",
@@ -206,8 +217,6 @@
     "Professional/Lean 6 Sigma/Team-Roles-of-Lean-Six-Sigma_GoLeanSixSigma.webp",
     "Scholarly/Science/Data/Data Visualization/Workflow.md",
     "Pasted image 20230601064645.png",
-    "Scholarly/Science/Data/Data Visualization",
-    "Scholarly/Science/Data",
     "Professional/Lean 6 Sigma/11. Positions and Responsibilities.md",
     "Professional/Lean 6 Sigma/10. Lean Six Sigma Culture.md",
     "Professional/Lean 6 Sigma/9. Kaizen.md",
@@ -219,10 +228,6 @@
     "Scholarly/Science/Social/Business/BUS 100 - Business and Society/Chapter One - The Corporation and Its Stakeholers.md",
     "Pasted image 20230521172907.png",
     "Scholarly/Science/Social/Business/BUS 100 - Business in Society.md",
-    "Scholarly/Science/Social/Business/BUS 100 - Business and Society",
-    "Professional/Lean 6 Sigma/White Belt",
-    "Professional/Lean 6 Sigma",
-    "Personal/Culinary/Meat/Pork/Roasted Pork Tenderloin with Blackberry and Hoisin Sause.md",
-    "Personal/Culinary/Meat/Pork/Milk Braised Pork with Lemon-Caper Mashed Potatoes.md"
+    "Personal/Culinary/Meat/Pork/Roasted Pork Tenderloin with Blackberry and Hoisin Sause.md"
   ]
 }

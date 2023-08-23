@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+                "file": "Professional/Architecture/Enterprise/What is Enterprise Architecture.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+                "file": "Professional/Architecture/Enterprise/What is Enterprise Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+                "file": "Professional/Architecture/Enterprise/What is Enterprise Architecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Professional/Business/Strategic Planning/OKRs/1. Primer.md"
+                "file": "Professional/Architecture/Enterprise/What is Enterprise Architecture.md"
               }
             }
           },
@@ -191,6 +191,7 @@
   "active": "734aa3c63a280053",
   "lastOpenFiles": [
     "Professional/Business/Strategic Planning/OKRs/1. Primer.md",
+    "Professional/Architecture/Enterprise/What is Enterprise Architecture.md",
     "Professional/Business/Strategic Planning/OKRs",
     "Professional/Business/Untitled",
     "Professional/Architecture/Solution",
@@ -227,7 +228,6 @@
     "Professional/Lean 6 Sigma/4. Value Stream Mapping.md",
     "Scholarly/Science/Social/Business/BUS 100 - Business and Society/Chapter One - The Corporation and Its Stakeholers.md",
     "Pasted image 20230521172907.png",
-    "Scholarly/Science/Social/Business/BUS 100 - Business in Society.md",
-    "Personal/Culinary/Meat/Pork/Roasted Pork Tenderloin with Blackberry and Hoisin Sause.md"
+    "Scholarly/Science/Social/Business/BUS 100 - Business in Society.md"
   ]
 }
